@@ -16,7 +16,7 @@
 
 <p>
     <a href="https://instagram.com/alisarlak71">
-        <img src="https://user-images.githubusercontent.com/91287064/208878642-b2b10974-a3db-4033-9ebe-32142125e575.png" alt="dev-atenadadkhah" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" height="50" width="50">
     </a>
     <a href="https://github.com/alisarlak71">
         <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-atenadadkhah" width="50" height="50">
