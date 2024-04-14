@@ -1,5 +1,5 @@
 <h1>Ali Sarlak</h1>
-<h3>skills :</h3>
+<h3>Skills</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="65" height="65" alt="nestjs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="65" height="65" alt="laravel" />
