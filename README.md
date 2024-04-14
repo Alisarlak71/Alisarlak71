@@ -12,7 +12,6 @@
 </p>
 <h2>How To Reach Me</h2>
 
-<p>
 
 <p>
     <a href="https://instagram.com/alisarlak71">
@@ -27,6 +26,4 @@
     <a href="mailto:alisarlak1397@gmail.com">
         <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="github-alisarlak" width="50" height="50">
     </a>
-</p>
-
 </p>
