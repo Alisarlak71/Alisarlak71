@@ -15,7 +15,7 @@
 
 
 <p>
-    <a href="https://www.linkedin.com/in/ali-sarlak-1a5578168/"><img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="github-alisarlak" width="50" height="50"></a>
+    <a href="https://www.linkedin.com/in/ali-sarlak-1a5578168/"><img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="github-alisarlak" width="48" height="48"></a>
     <a href="mailto:alisarlak1397@gmail.com"><img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="github-alisarlak" width="50" height="50"></a>
     <a href="https://github.com/alisarlak71"><img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-alisarlak" width="50" height="50"></a>
     <a href="https://instagram.com/alisarlak71"><img  src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1" width="40" height="40"/></a>
