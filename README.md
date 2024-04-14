@@ -13,6 +13,6 @@
 <h3>How To Reach Me</h3>
 <p>
   <a href="https://github.com/Alisarlak71">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="github"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="25" height="25" alt="github"  />
   </a>
 </p>
