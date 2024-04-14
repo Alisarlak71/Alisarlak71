@@ -1,6 +1,5 @@
 <h1>Ali Sarlak</h1>
-<hr/>
-<h2>skills :</h2>
+<h3>skills :</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="65" height="65" alt="nestjs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="65" height="65" alt="laravel" />
@@ -11,9 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="65" height="65" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm" />
 </p>
-<hr/>
-<h2>How To Reach Me</h2>
-
+<h3>How To Reach Me</h3>
 <p>
   <a href="https://github.com/Alisarlak71">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="github"  />
